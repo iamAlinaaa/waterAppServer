@@ -9,6 +9,8 @@ You can calculate your own water goal on "calculate" page where your age, gender
 
 ![Снимок экрана (52)](https://user-images.githubusercontent.com/111873795/218479327-b4a81844-f2db-4a37-aa4a-f2f7e220c9ea.png)
 
+![Снимок экрана (58)](https://user-images.githubusercontent.com/111873795/218480425-b3c6131f-0fbd-49cb-8223-2c8770626601.png)
+
 ![Снимок экрана (53)](https://user-images.githubusercontent.com/111873795/218479367-0f96a2f9-68f2-4d88-9efe-c62600aeb687.png)
 
 ![Снимок экрана (57)](https://user-images.githubusercontent.com/111873795/218480006-f103084c-1ab4-4dae-9843-e3ede7a1471a.png)
