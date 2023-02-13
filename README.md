@@ -1,6 +1,6 @@
 # waterAppServer
 
-I created this project for the purpose that every user can calculate his/her daily water goal using laptop or pc and without installation. You just need to download it and install required NPMs for application's correct work. Also MongoDB is required.
+I created this project for the purpose that every user can calculate his/her daily water goal using laptop or pc and without installation. You just need to download it and install required NPMs for application's correct work. 
 
 ![Снимок экрана (55)](https://user-images.githubusercontent.com/111873795/218478469-427bef41-43fd-49c5-b296-eaafbcb4c458.png)
 
